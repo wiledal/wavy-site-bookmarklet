@@ -4,7 +4,7 @@ Sometimes you ~~want~~ need some waves in your life.
 
 Use this bookmarklet then.
 
-![YouTube](assets/youtube.gif)
+![YouTube](assets/youtube-new.gif)![Verge](assets/verge.gif)
 
 Drag the link below to your bookmarks bar:
 
