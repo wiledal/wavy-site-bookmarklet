@@ -1,3 +1,5 @@
 javascript: var s = document.createElement("script");
-s.src = "https://cdn.jsdelivr.net/gh/wiledal/wavy-site-bookmarklet/wavy.js";
+s.src =
+  "https://raw.githubusercontent.com/wiledal/wavy-site-bookmarklet/master/wavy.js";
+s.type = "text/javascript";
 document.body.appendChild(s);
