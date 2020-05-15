@@ -12,12 +12,12 @@ Drag the link below to your bookmarks bar:
 
 
 
-If the link isn't working, try here: https://wiledal.github.io/wavy-site-bookmarklet/
+If the link isn't working, try here: [https://wiledal.github.io/wavy-site-bookmarklet/](https://wiledal.github.io/wavy-site-bookmarklet/)
 
 ---
 
 See the code:
-https://github.com/wiledal/wavy-site-bookmarklet/blob/master/wavy.js
+[https://github.com/wiledal/wavy-site-bookmarklet/blob/master/wavy.js](https://github.com/wiledal/wavy-site-bookmarklet/blob/master/wavy.js)
 
 
 (Not compatible with Safari - sorry!)
