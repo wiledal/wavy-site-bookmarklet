@@ -23,8 +23,7 @@
       height: 100vh;
       background: linear-gradient(to bottom, blue, #0000cd);
       display: flex;
-      justify-content: center;
-      align-items: center;
+    
       padding: 24px;
 
       overflow-x: hidden;
@@ -38,6 +37,8 @@
       
       max-width: 1024px;
       text-align: center;
+
+      margin: auto;
 
       display: flex;
       align-items: center;
@@ -73,7 +74,7 @@
     }
 
     .byline {
-      position: absolute;
+      position: fixed;
       bottom: 16px;
       right: 16px;
       font-size: 16px;
@@ -97,6 +98,19 @@
     }
     .video video {
       width: 100%;
+    }
+
+    @media(max-width: 1024px) {
+      body {
+        font-size: 20px;
+      }
+      .inner {
+        display: block;
+      }
+      .video {
+        max-width: 100%;
+        margin: 0 auto;
+      }
     }
   </style>
 </head>
